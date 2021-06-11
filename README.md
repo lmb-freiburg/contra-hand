@@ -1,12 +1,12 @@
 # HanCo Dataset & Contrastive Representation Learning for Hand Shape Estimation 
-Code in conjunction with the publication 'Contrastive Representation Learning for Hand Shape Estimation'.
-
-Visit our [project page](https://lmb.informatik.uni-freiburg.de/projects/contra-hand/) for additional information.
+Code in conjunction with the publication: *Contrastive Representation Learning for Hand Shape Estimation*.
 
 This repository contains code for inference of both networks:
 The one obtained from self-supervised contrastive pre-training and the network trained supervisedly for hand pose estimation.
-
 Additionally, we provide examples how to work with the HanCo dataset and release the pytorch Dataset that was used during our pre-training experiments.
+This dataset is an extension of the [FreiHand](https://lmb.informatik.uni-freiburg.de/projects/freihand) dataset.
+
+Visit our [project page](https://lmb.informatik.uni-freiburg.de/projects/contra-hand/) for additional information.
 
 
 # Requirements

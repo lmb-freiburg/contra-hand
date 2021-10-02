@@ -28,7 +28,7 @@ You either need the [full HanCo dataset](https://lmb.informatik.uni-freiburg.de/
 ### Random Background Images
 
 As the hand pose dataset contains green screen images, randomized backgrounds can be used. For our dataset we used 2195 images from Flickr. As these were not all licensed in a permissive manner, we provide a set of background images to use with the dataset.
-These can be found [here](https://lmb.informatik.uni-freiburg.de/resources/datasets/HanCo_bg.zip).
+These can be found [here](https://lmb.informatik.uni-freiburg.de/data/HanCo/HanCo_rnd_backgrounds.zip).
 
 
 ### MANO model
